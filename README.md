@@ -1,4 +1,4 @@
-# Project 1 — Secure Notes (Insecure → Secure)
+# VaultNotes
 
 ## Overview
 A small notes app built intentionally insecure (v1) and then secured (v2) to demonstrate practical application security skills.
